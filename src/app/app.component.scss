@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+  font-family: Arial;
+  min-height: 100vh;
+  background: linear-gradient(rgb(182, 49, 182), rgb(83, 83, 255), rgb(57, 175, 57));
+  
+}
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+
+.img .img{
+  width: 200px;
+  height: 100px;
+}
+  
